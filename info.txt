@@ -1,2 +1,10 @@
-This is the first homework for Software Configuration Mangement.
-Student:Rasha
+Student Name: Rasha Ayed Alshammari  
+Student ID: 431205695
+Course: Software Configuration Management  
+Homework 1  
+
+This homework demonstrates the use of Git and GitHub features:  
+- Creating branches  
+- Committing changes  
+- Creating and merging pull requests  
+- Creating and closing issues
